@@ -27,19 +27,19 @@ const Footer = () => {
                 </div>
             
              <div className="footer-social">
-                <a href="https://api.whatsapp.com/send?phone=9386452868&text=Hello%20Safina%0Ahow%20are%20you%0A" className="footer-social-link" target="_blank">
+                <a href="https://api.whatsapp.com/send?phone=9385452868&text=Hello%20Safina%0Ahow%20are%20you%0A" className="footer-social-link" target="_blank">
                     <i class="bx bxl-whatsapp footer-social-icon"></i>
                 </a>
                 <a href="https://www.facebook.com/" className="footer-social-link" target="_blank">
                     <i class="bx bxl-facebook footer-social-icon"></i>
                 </a>
-                <a href="https://www.instagram.com/_._mr_moideen___/" className="footer-social-link" target="_blank">
+                <a href="https://www.instagram.com/_md_safie_/" className="footer-social-link" target="_blank">
                     <i class="bx bxl-instagram footer-social-icon"></i>
                 </a>
             </div>
             <div>
                 <span className="footer-copy">
-                   &#169; safina moideen.All rights reserved
+                   &#169; safinamoideen. All rights reserved
                 </span>
                 </div>
             </div>
