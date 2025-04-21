@@ -9,7 +9,7 @@ export const Info = () => {
                 experience
             </h3>
             <span className="about-subtittle">
-                1 yrs work
+                2 yrs work
             </span>
         </div>
 
@@ -20,7 +20,7 @@ export const Info = () => {
                 completed
             </h3>
             <span className="about-subtittle">
-20+ projects
+12+ projects
             </span>
         </div>
 

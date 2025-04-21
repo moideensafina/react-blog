@@ -60,7 +60,7 @@
     justify-self: center;
     width: 400px;
     height: 400px;
-    animation: profile-animate 1s ease-in-out infinite 1s;
+    animation: profile-animate 5s ease-in-out infinite 1s;
 
 }
 
