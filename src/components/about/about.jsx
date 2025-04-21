@@ -1,6 +1,6 @@
 import React from 'react'
 import "./about.css";
-import AboutImg from "../../assests/safina moideen.jpg";
+import AboutImg from "../../assests/WhatsApp Image 2025-04-21 at 01.02.39_43366009.jpg";
 import Info from './info';
 
 export const About = () => {
@@ -16,7 +16,7 @@ export const About = () => {
                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi tempora eligendi beatae fugiat doloribus ipsam nobis deleniti ab.
                     </p>
                     
-                    <a download="" href="" className="button">Download CV <i class="uil uil-file"></i></a>
+                    <a download="../../assests/SAFINAMOIDEEN(MERN).pdf" href="../../assests/SAFINAMOIDEEN(MERN).pdf" className="button">Download CV <i class="uil uil-file"></i></a>
                 </div>
         </div>
     </section>

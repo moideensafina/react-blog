@@ -37,12 +37,12 @@ const Test = () => {
     }}
     modules={[Pagination]}
     >
-        {Data.map(({id,image,tittle,description})=>{
+        {Data.map(({id,image,tittle,link})=>{
             return(
                 <SwiperSlide className='test-card' key={id}>
                     <img src={image} alt="" className='test-img' />
                     <h3 className="test-name">{tittle}</h3>
-                    <p className="test-description">{description}</p>
+                    <a href={link} target='_blank'> <i class="uil uil-link"></i> Click Here </a>
                 </SwiperSlide>
             )
         })}

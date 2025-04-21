@@ -3,14 +3,14 @@ import React from 'react'
 const Backend = () => {
   return (
     <div className="skills-content">
-    <h3 className="skills-tittle">Backend developer</h3>
+    <h3 className="skills-tittle">Backend </h3>
     <div className="skills-box">
         <div className="skills-group">
             <div className="skills-data">
                 <i class='bx bx-badge-check' ></i>
                 <div>
                 <h3 className="skills-name">Node js</h3>
-                <span className="skills-level">basic</span>
+                <span className="skills-level">Advance</span>
                 </div>
             </div>
 
@@ -18,15 +18,15 @@ const Backend = () => {
                 <i class='bx bx-badge-check' ></i>
                 <div>
                 <h3 className="skills-name">Mango Db</h3>
-                <span className="skills-level">basic</span>
+                <span className="skills-level">Advance</span>
                 </div>
             </div>
 
             <div className="skills-data">
                 <i class='bx bx-badge-check' ></i>
                 <div>
-                <h3 className="skills-name">Node js</h3>
-                <span className="skills-level">basic</span>
+                <h3 className="skills-name">Express js</h3>
+                <span className="skills-level">Advance</span>
                 </div>
             </div>
 
@@ -36,8 +36,8 @@ const Backend = () => {
             <div className="skills-data">
                 <i class='bx bx-badge-check' ></i>
                 <div>
-                <h3 className="skills-name">C</h3>
-                <span className="skills-level">Advance</span>
+                <h3 className="skills-name">Python</h3>
+                <span className="skills-level">Basic</span>
                 </div>
             </div>
 

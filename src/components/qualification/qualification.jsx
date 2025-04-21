@@ -27,13 +27,13 @@ const Qualification = () => {
 
 
                             <div>
-                                <h3 className="qualification-tittle">BCA</h3>
+                                <h3 className="qualification-tittle">10th</h3>
                                 <span className="qualification-subtittle">
-                                    jamal mohamed college
+                                Veludayar Hr Sec School
                                 </span>
 
                                 <div className="qualification-calender">
-                                    <i class="uil uil-calendar-alt"></i>2022 -present
+                                    <i class="uil uil-calendar-alt"></i>2019 -2020
                                 </div>
                             </div>
                             <div>
@@ -53,12 +53,12 @@ const Qualification = () => {
                             </div>
 
                             <div>
-                                <h3 className="qualification-tittle">BCA</h3>
+                                <h3 className="qualification-tittle">12th</h3>
                                 <span className="qualification-subtittle">
-                                    jamal mohamed college
+                                Veludayar Hr Sec School
                                 </span>
                                 <div className="qualification-calender">
-                                    <i class="uil uil-calendar-alt"></i>2022 -present
+                                    <i class="uil uil-calendar-alt"></i>2021 - 2022
                                 </div>
 
                             </div>
@@ -74,7 +74,7 @@ const Qualification = () => {
                                     jamal mohamed college
                                    </span>
                                   <div className="qualification-calender">
-                                        <i class="uil uil-calendar-alt"></i>2022 -present
+                                        <i class="uil uil-calendar-alt"></i>2022 - 2025
                                   </div>
                              </div>
                              <div>
@@ -87,24 +87,7 @@ const Qualification = () => {
                         </div>
 
 
-                        <div className="qualification-data">
-                            <div></div>
-                            <div>
-                                <span className="qualification-rounder"></span>
-                                <span className="qualification-line"></span>
-                            </div>
-
-                            <div>
-                                <h3 className="qualification-tittle">BCA</h3>
-                                <span className="qualification-subtittle">
-                                    jamal mohamed college
-                                </span>
-                                <div className="qualification-calender">
-                                    <i class="uil uil-calendar-alt"></i>2022 -present
-                                </div>
-
-                            </div>
-                        </div>
+                        
 
                     </div>
 
@@ -142,7 +125,7 @@ const Qualification = () => {
                             </div>
 
                             <div>
-                                <h3 className="qualification-tittle">Web Design</h3>
+                                <h3 className="qualification-tittle">Web Development </h3>
                                 <span className="qualification-subtittle">
                                     jamal mohamed college
                                 </span>
@@ -157,8 +140,8 @@ const Qualification = () => {
                         <div className="qualification-data">
                             <div>
                                 <h3 className="qualification-tittle">
-                                    Web Design
-                                </h3>
+                                        MERN Stack
+                                    </h3>
                                 <span className="qualification-subtittle">
                                     jamal mohamed college
                                 </span>

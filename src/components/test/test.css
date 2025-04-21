@@ -1,5 +1,5 @@
 .test-container{
-    width: 750px;
+    width: 850px;
 }
 .test-card{
     color: rgba(0, 0, 0, 0.801);
@@ -10,8 +10,7 @@
     margin-bottom: 3rem;
 }
 .test-img{
-    width: 60px;
-    border-radius: 3rem;
+    width: 700px;
     margin-bottom: 1rem;
 
 }

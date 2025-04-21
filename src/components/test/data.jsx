@@ -1,48 +1,48 @@
  
  import Image from "../../assests/safina moideen.jpg";
+ import Image1 from "../../assests/Screenshot 2025-04-20 231357.png";
 
 export const Data = [
     {
         id:1,
-        image:Image,
-        tittle:"safina",
-        description:
-        "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis eligendi dolor inventore repudiandae, minus ipsa aut!",
+        image:Image1,
+        tittle:"Turbo Construction",
+        link:"https://github.com/moideensafina/MERN-CONSTRUCTION",
     },
     {
         id:2,
-        image:Image,
+        image:Image1,
         tittle:"moideen",
-        description:
-    "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis eligendi dolor inventore repudiandae, minus ipsa aut!",
+        link:
+    "",
     },
     {
         id:3,
-        image:Image,
+        image:Image1,
         tittle:"safie",
-        description:
-        "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis eligendi dolor inventore repudiandae, minus ipsa aut!",
+        link:
+        "",
     },
     {
         id:4,
-        image:Image,
+        image:Image1,
         tittle:"safi",
-        description:
-        "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis eligendi dolor inventore repudiandae, minus ipsa aut!",
+        link:
+        "",
     },
     {
         id:5,
-        image:Image,
+        image:Image1,
         tittle:"deen",
-        description:
-        "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis eligendi dolor inventore repudiandae, minus ipsa aut!",
+        link:
+        "",
     },
     {
         id:6,
-        image:Image,
+        image:Image1,
         tittle:"safina moideen",
-        description:
-        "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis eligendi dolor inventore repudiandae, minus ipsa aut!",
+        link:
+        "",
     },
 
 ];
