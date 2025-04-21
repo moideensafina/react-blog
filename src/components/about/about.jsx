@@ -17,7 +17,7 @@ export const About = () => {
                     </p>
                     
 
-                    <a download href="src\components\about\SAFINAMOIDEEN(MERN).pdf" className="button">Download CV <i class="uil uil-file"></i></a>
+                    <a download="MY_Cv.pdf" href="src\components\about\SAFINAMOIDEEN(MERN).pdf" className="button">Download CV <i class="uil uil-file"></i></a>
                 </div>
         </div>
     </section>
