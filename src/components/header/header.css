@@ -112,7 +112,7 @@ position: absolute;
   }
   @media screen and (max-width:350px){
     .nav-menu{
-        padding: 1rem 0.25rem  3rem;
+        padding: 1rem 0.50rem  4rem;
     }
     .nav-list{
         column-gap: 0;
