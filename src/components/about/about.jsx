@@ -13,11 +13,11 @@ export const About = () => {
                 <div className="about-data">
                 <Info/>
                     <p className="about-description">
-                       Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi tempora eligendi beatae fugiat doloribus ipsam nobis deleniti ab.
+                    Hi, I'm Safina Moideen — a passionate MERN stack developer with a strong interest in building full-stack web applications that are fast, functional, and user-friendly. I have experience developing a wide range of platforms, including e-commerce websites, blog systems, and service-based applications.
                     </p>
                     
 
-                    <a download="MY_Cv.pdf" href="src\components\about\SAFINAMOIDEEN(MERN).pdf" className="button">Download CV <i class="uil uil-file"></i></a>
+                    <a download href="src\components\about\files\SAFINAMOIDEEN(MERN).pdf" className="button">Download CV <i class="uil uil-file"></i></a>
                 </div>
         </div>
     </section>
