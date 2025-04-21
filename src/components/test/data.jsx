@@ -1,48 +1,68 @@
  
  import Image from "../../assests/safina moideen.jpg";
- import Image1 from "../../assests/Screenshot 2025-04-20 231357.png";
+ import MERN_Construction from "../../assests/mern construction.png";
+ import MERN_Blog from "../../assests/mern blog.png";
+ import MERN_Ecommerce from "../../assests/mern ecommerce.png";
+ import BookStore from "../../assests/book store.png";
+ import Blog_Bootstrap from "../../assests/blog (bootstrap).png";
+ import Calculator from "../../assests/calculator.png";
+ import Portfolio from "../../assests/portfolio.png";
+ import Construction from "../../assests/construction.png";
+ import TicTacToe from "../../assests/tictoctoe.png";
 
 export const Data = [
     {
         id:1,
-        image:Image1,
-        tittle:"Turbo Construction",
+        image:MERN_Construction,
+        tittle:"MERN Construction",
         link:"https://github.com/moideensafina/MERN-CONSTRUCTION",
     },
     {
         id:2,
-        image:Image1,
-        tittle:"moideen",
-        link:
-    "",
+        image:MERN_Blog,
+        tittle:"MERN Blog",
+        link:"https://github.com/moideensafina/mern-blog",
     },
     {
         id:3,
-        image:Image1,
-        tittle:"safie",
-        link:
-        "",
+        image:MERN_Ecommerce,
+        tittle:"MERN E-commerce",
+        link:"",
     },
     {
         id:4,
-        image:Image1,
-        tittle:"safi",
-        link:
-        "",
+        image:BookStore,
+        tittle:"Book Store",
+        link:"https://moideensafina.github.io/bookstore/",
     },
     {
         id:5,
-        image:Image1,
-        tittle:"deen",
-        link:
-        "",
+        image:Blog_Bootstrap,
+        tittle:"Blog Bootstrap",
+        link:"https://moideensafina.github.io/bootstrap_web/",
     },
     {
         id:6,
-        image:Image1,
-        tittle:"safina moideen",
-        link:
-        "",
+        image:Calculator,
+        tittle:"Calculator",
+        link:"https://moideensafina.github.io/calculator/",
     },
-
+    {
+        id:7,
+        image:Portfolio,
+        tittle:"Portfolio",
+        link:"https://moideensafina.github.io/safinamoideen/",
+    },
+    {
+        id:8,
+        image:Construction,
+        tittle:"Construction",
+        link:"https://moideensafina.github.io/construction/",
+    },
+    {
+        id:9,
+        image:TicTacToe,
+        tittle:"Tic Tac Toe",
+        link:"https://moideensafina.github.io/tictactoe/",
+    }
 ];

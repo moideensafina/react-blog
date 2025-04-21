@@ -14,8 +14,8 @@ import {Pagination} from 'swiper/modules'
 const Test = () => {
   return (
     <section className="test container section">
-    <h2 className="section-tittle">My client say</h2>
-    <span className="section-subtittle">My test journey  </span>
+    <h2 className="section-tittle">My Projects</h2>
+    <span className="section-subtittle">  </span>
 
     <Swiper className="test-container"
     
