@@ -1,6 +1,8 @@
 import React from 'react'
 import "./about.css";
 import AboutImg from "../../assests/WhatsApp Image 2025-04-21 at 01.02.39_43366009.jpg";
+import Resume from '../../assests/SAFINAMOIDEEN.pdf';
+
 import Info from './info';
 
 export const About = () => {
@@ -15,9 +17,8 @@ export const About = () => {
                     <p className="about-description">
                     Hi, I'm Safina Moideen — a passionate MERN stack developer with a strong interest in building full-stack web applications that are fast, functional, and user-friendly. I have experience developing a wide range of platforms, including e-commerce websites, blog systems, and service-based applications.
                     </p>
-                    
-
-                    <a download href="src\components\about\files\SAFINAMOIDEEN(MERN).pdf" className="button">Download CV <i class="uil uil-file"></i></a>
+                  
+                    <a href={Resume} className="button" download >Download CV <i class="uil uil-file"></i></a>
                 </div>
         </div>
     </section>
